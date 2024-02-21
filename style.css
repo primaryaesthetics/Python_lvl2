@@ -1,0 +1,15 @@
+body {
+    
+    background-color: #FFFFFF;
+    color: #333333;
+    text-decoration-color: #5988FF;
+    border: 1px solid #5988FF;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+     
+}
+h1 {
+    color: #00a800; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
